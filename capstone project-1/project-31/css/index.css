@@ -1,0 +1,254 @@
+.div1{
+	position: relative;
+	height: 400px;
+	width: 1510px;
+}
+.a{
+	height:1300px;
+	width: 100%;
+	border: 5px solid gray;	
+}
+.a1{
+	background-image: url('../images/nature1.jpg');
+	height:600px;
+	width: 100%;
+	border: 5px solid gray;
+}
+h1{
+	color: white;
+	text-align: 300px;
+	font-style: italic;
+	font-size: 100px;
+}
+.tagency{
+	font-size: 23px;
+	font-family: verdana;
+	color: whitesmoke;
+	position: absolute;
+	top: 214px;
+	left: 590px;
+	letter-spacing: 5px;
+
+}
+.a2{
+	background-image: url('../images/nature4.jpg');
+	height:700px;
+	width: 100%;
+	border: 5px solid gray;
+}
+.a21{
+    height: 429px;
+	width: 235px;
+	background-color: darkorange;
+    border-bottom-left-radius: 300px;
+    border-top-left-radius: 300px;
+    padding: 30px;
+    margin-left: 159px;
+    margin-top: 81px;
+    float: left;
+    font-size: 59px;
+	color: white;
+}
+
+.a22{
+    height: 450px;
+	width: 500px;
+	background-color: white;
+    float: left;
+	margin-left: 150px;
+	margin-botttom: 400px;
+	color: black;
+	margin-top: 75px;
+	color: white;
+	background-color: transparent;
+}
+.b{
+	height:1500px;
+	width: 100%;
+	border: 5px solid gray;
+	color: white;	
+}
+.b1{
+	background-image: url('../images/nature3.jpg');
+	height:600px;
+	width: 100%;
+	border: 5px solid gray;
+	background-size: cover;
+}
+.b2{
+	height:400px;
+	width: 400px;
+	border: 3px solid gray;
+	background-image: url('../images/nature5.jpg');
+	background-size: cover;
+	position: absolute;
+	top: 1370px;
+	left: 93px;
+	color: white;
+}
+.txt1{
+	position: absolute;
+	top: 404px;
+	left: 9px;
+	font-size: 19px;
+}
+.txt2{
+	position: absolute;
+	top: 413px;
+	left: 10px;
+	font-size: 19px;
+}
+.txt3{
+	position: absolute;
+	top: 410px;
+	left: 10px;
+	font-size: 19px;
+}
+.b3{
+	height:400px;
+	width: 400px;
+	border: 3px solid gray;
+	background-image: url('../images/nature6.jpg');
+	background-size: cover;
+	position: absolute;
+	top: 1370px;
+	left: 567px;
+	color: white;
+}
+
+.b4{
+	height:400px;
+	width: 400px;
+	border: 3px solid gray;
+	background-image: url('../images/nature8.jpg');
+	background-size: cover;
+	position: absolute;
+	top: 1370px;
+	left: 1038px;
+	color: whitesmoke;
+}
+.b5{
+	height: 200px;
+	width: 100%;
+	border: 5px solid gray;
+	background-color: beige;
+}
+.b51{
+	height: 200px;
+	width: 600px;
+	border: 5px solid beige;
+	float: left;
+	margin-left: 50px;
+	color: black;
+	font-size: 50px;
+}	
+.b52{
+	display: inline-block;
+	color: black;
+	font-size: 23px;
+}
+.txt4{
+	position: absolute;
+	top: 1989px;
+	left: 710px;
+}
+.c{
+	background-image: url('../images/nature7.jpg');
+	height:700px;
+	width: 100%;
+	border: 5px solid gray;
+}
+.c1{
+    height: 500px;
+	width: 500px;
+	background-image: url('../images/nature10.png');
+	color: white;
+	margin-left: 118px;
+	margin-top: 75px;
+	font-size: 41px;
+	text-align-last: unset;
+	float: left;
+	border: 3px solid gray;
+}
+.c2{
+    height: 500px;
+	width: 700px;
+	background-color: white;
+	float: left;
+	margin-left: 90px;
+    margin-top: 75px;
+    background-color: transparent;
+    font-size: 20px
+}
+.d{
+	position: absolute;
+	top: 2848px;
+    height: 700px;
+	width: 1510px;
+	background-color: black;
+	border: 5px solid gray;
+}
+.d1{
+    height: 450px;
+	width: 500px;
+    float: left;
+	margin-left: 250px;
+	margin-top: 100px;
+	color: white;
+	font-size: 20px;
+
+} 
+.d2{
+    height: 447px;
+	width: 301px;
+	background-color: darkorange;
+    border-top-right-radius: 300px;
+    border-bottom-right-radius: 300px;
+    padding: 30px;
+    margin-left: 100px;
+    margin-top: 75px;
+    float: left;
+    font-size: 65px;
+	color: white;
+	padding: 20px;
+} 
+  
+.e{
+	position: absolute;
+	top: 3556px;
+	background-image: url('../images/nature7.jpg');
+	height:600px;
+	width: 1510px;
+	border: 5px solid gray;
+
+}
+.e1{
+	height:400px;
+	width: 500px;
+	margin-left: 94px;
+	margin-top: 83px;
+	padding-left: 200px;
+	float: left;
+}
+.e2{
+	position: absolute;
+	top: -2px;
+	left: 650px;
+    height: 500px;
+	width: 600px;
+    float: left;
+    color: white;
+    font-size: 30px;
+    padding-top: 90px;
+    margin-left: 300px;
+}
+h2{
+	color: white;
+	text-align: 300px;
+	font-style: italic;
+	font-size: 60px;
+}
+button{ 
+	height: 50px;
+	width: 90px;
+ }
